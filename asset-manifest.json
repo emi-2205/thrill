@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thrill/static/css/main.073c9b0a.css",
+    "main.js": "/thrill/static/js/main.5c2f3d34.js",
+    "static/js/787.ec545912.chunk.js": "/thrill/static/js/787.ec545912.chunk.js",
+    "static/media/logo.svg": "/thrill/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/thrill/index.html",
+    "main.073c9b0a.css.map": "/thrill/static/css/main.073c9b0a.css.map",
+    "main.5c2f3d34.js.map": "/thrill/static/js/main.5c2f3d34.js.map",
+    "787.ec545912.chunk.js.map": "/thrill/static/js/787.ec545912.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5c2f3d34.js"
+  ]
+}
