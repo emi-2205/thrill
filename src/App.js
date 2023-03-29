@@ -34,6 +34,7 @@ function App() {
     <div className='App'>
       <Auth />
       <Travel />
+      <p>hello</p>
     </div>
   );
 }
